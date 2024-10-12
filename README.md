@@ -38,7 +38,7 @@ Este projeto visa implementar um jogo que permite aos estudantes aplicarem conce
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```sh
-   git clone 
+   git clone git@github.com:alethomaz/jogo-do-dino.git
    ```
 2. Compile o código:
    ```sh
